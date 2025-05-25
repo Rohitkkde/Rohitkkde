@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Rohit Kakade and I'm a "Fullstack Developer | AI/ML Engineer </h2>
+<h2 align="left">Hi 👋! My name is Rohit Kakade and I'm a Fullstack Developer | AI/ML Engineer </h2>
 
 ###
 
