@@ -7,13 +7,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=440&height=45&lines=MERN+Fullstack+Developer;Exploring+AI/ML+Engineer+and+Web+;Always+Learning+new+things" alt="Typing SVG" />
 </p>
 
-## Languages and Tools 💁🏽‍♀️
-  
-<!-- <p align="center">  -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rohitkkde&show_icons=true&locale=en&layout=compact" alt="Rohitkkde" />
-<!-- </p> -->
-<img align="right" height="150" src="https://media.tenor.com/yISPJmmVjqUAAAAi/gat2.gif"  />
-
 ### Programming Languages 
 <!-- <p align="center">  -->
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>  
